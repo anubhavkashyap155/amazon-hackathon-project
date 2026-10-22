@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+
+🌐 by [Launch NOVA — Student  Orbit]
+(https://amazon-hackathon-project.vercel.app/)
 # NOVA — Student Orbit
 
 An independent **Alexa+-style simulated experience** for the 2026 Amazon Developer Hackathon. NOVA helps students organize tasks, generate study plans, and track learning progress through a conversational command interface.
